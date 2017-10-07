@@ -1,8 +1,10 @@
 How to serve HTTP/2 using Python
 ================================
 
-This is the code to accompany an article, it has simple examples for
-serving a simple website via HTTP/2. It includes some bootstrap code.
+This is the code to accompany an `article
+<https://medium.com/@pgjones/how-to-serve-http-2-using-python-5e5bbd1e7ff1>`_,
+it has simple examples for serving a simple website via HTTP/2. It
+includes some bootstrap code.
 
 Running
 -------
