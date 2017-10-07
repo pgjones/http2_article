@@ -1,0 +1,6 @@
+# Quart requirements
+Quart
+
+
+# Twisted requirements
+twisted[http2]
